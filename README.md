@@ -10,7 +10,7 @@ Listed under "The Reach" in the [nwn server browser](http://nwn.beamdog.net/)
 
 ## Development
 
-* [Versoin 1.0 Roadmap](https://github.com/users/ReachPW/projects/2])
+* [Project Roadmap](https://trello.com/b/2BMmIrfN/reachpw-roadmap)
 
 * [Data](https://drive.google.com/drive/folders/1Xyd_evpwZ3Afr9OcV1GvKJNX_8hwd0SZ?usp=sharing) (google drive)
 
