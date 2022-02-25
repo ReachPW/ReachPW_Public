@@ -1,5 +1,6 @@
-# ReachPW
 
+![Reach Reborn](/images/logo_full.png)
+#
 
 The Reach is a fast action and adventure persistent world for NWN:EE.
 
