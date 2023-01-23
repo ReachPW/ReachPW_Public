@@ -8,7 +8,7 @@
 
 ## Email
 
-* thereachpw@gamil.com
+* thereachpw at gmail dot com
 
 ## Documentation, gameplay wiki, maps, etc
 
