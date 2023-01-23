@@ -8,6 +8,10 @@ NWN:EE is on [Steam](https://store.steampowered.com/app/704450/Neverwinter_Night
 
 Listed under "The Reach" in the [nwn server browser](http://nwn.beamdog.net/)
 
+## Players / Gameplay
+
+* [Gameplay wiki](https://github.com/ReachPW/ReachPW_Public/tree/main/docs/manual/index.md)
+* [Game Map](https://drive.google.com/file/d/1DrF7L02eiSCDB3wtY9WJ603nq2lMuYZq/view)
 
 ## Development
 
@@ -15,10 +19,6 @@ Listed under "The Reach" in the [nwn server browser](http://nwn.beamdog.net/)
 * [Project Tracking](https://drive.google.com/file/d/1n6WP_HoMNbbprKxikgr44VYIJEaAxi8Z/view?usp=sharing) (see tabs)
 
 * [Data](https://drive.google.com/drive/folders/1Xyd_evpwZ3Afr9OcV1GvKJNX_8hwd0SZ?usp=sharing) (google drive)
-
-## Links
-* [Gameplay wiki](https://github.com/ReachPW/ReachPW_Public/docs/manual) 
-* [Game Map](https://drive.google.com/file/d/1DrF7L02eiSCDB3wtY9WJ603nq2lMuYZq/view)
 
 ## Community
 * [subreddit](https://www.reddit.com/r/ReachPW)
