@@ -17,7 +17,7 @@ Listed under "The Reach" in the [nwn server browser](http://nwn.beamdog.net/)
 * [Data](https://drive.google.com/drive/folders/1Xyd_evpwZ3Afr9OcV1GvKJNX_8hwd0SZ?usp=sharing) (google drive)
 
 ## Links
-* [Gameplay wiki](https://github.com/ReachPW/ReachPW_Public/wiki) 
+* [Gameplay wiki](https://github.com/ReachPW/ReachPW_Public/docs/manual) 
 * [Game Map](https://drive.google.com/file/d/1DrF7L02eiSCDB3wtY9WJ603nq2lMuYZq/view)
 
 ## Community
