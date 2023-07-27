@@ -52,7 +52,7 @@ For range weapons:
 ### Amulet
 * Chance to for Regeneration property
 * Chance for either (1 of these 3): 
-* * Spell Slots
+* * Spell Slots (Amulets and Rings are second highest in number of spell slots.)
 * * * Random Immunity (sneak, crithits, death magic, disease, fear, knockdown, level ability drain, mindspells, paralysis, poison)
 * * * Ability Bonus (all)
 * Second Chance for Ability Bonus (all)
@@ -406,7 +406,7 @@ These are special items in the game that help with game play.
 Rings are very flexiable and can help you fill in whatever is missing from your setup. Their is lots of options.
 * Chance to for Regeneration property
 * Chance for either: 
-* * Spell Slots
+* * Spell Slots (Amulets and Rings are second highest in number of spell slots.)
 * * * Random Immunity (sneak, crithits, death magic, disease, fear, knockdown, level ability drain, mindspells, paralysis, poison)
 * * * Ability Bonus (all)
 * Chance for bonus skill (Appraise, spellcraft or use magic device)
@@ -468,7 +468,7 @@ Short swords are very versatile like their longsword counterparts.  They are gre
 When you need protection, nothing but tower shield will do.  It has highest AC and highest DR for all
 * Chance to receive highest + DR bonus for Bludgeoning, Piercing and/or Slashing.
 
-## Trap Kits
+### Trap Kits
 * Stack size has been greatly increased.
 * Default NWN for now.  Should work, but probably under powered?
 
