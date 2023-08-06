@@ -482,7 +482,6 @@ When you need protection, nothing but tower shield will do.  It has highest AC a
 * Extra bludgeoning damage vs constructs (guaranteed)
 
 ### Whip
-* Monk Weapon (uses Monk AB table for attacks/round)
 * Monks can only use as single handed weapons (no items in secondary hand)
 * Extra piercing damage vs animals and beasts (guaranteed)
 * Chance for onhit (Blindness)

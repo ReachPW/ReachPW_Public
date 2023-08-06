@@ -29,6 +29,10 @@
 ### Chug Mug
 * You can use the Chug Mug and Chug Mug Mixer box to quickly "auto buff" potions.
 
+### Potions
+* "All" potions were added to the game.
+* Can brew potions in bulk, see "Brew Potion" feat in Feats wiki.
+
 ### Rod of Autobuff
 * This item will "auto buff" all your defensive spells avaiable.
 
@@ -36,11 +40,14 @@
 * Same as Rod of Autobuff, but needs to be configured on which spells to buff.
 
 ## Book of Quick Cast
-* This brings up a "NWN2 Quick Cast" widget.
+* This brings up a "NWN2-like Quick Cast" widget.
 
 ### Auto Sell Marker / Bags
 * These can be used to quickly sell your items at merchants.
 * Use the widget to toggle if a container is marked for "auto sell" or not.
+
+### Recall Potion
+* Single use potions that return you to Warden's End.
 
 ### Recall Stone
 * This is for teleporting.
