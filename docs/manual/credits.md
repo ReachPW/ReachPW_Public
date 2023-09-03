@@ -24,11 +24,17 @@ Link: https://neverwintervault.org/project/nwn1/script/scarfaces-gpxp-distributi
 Modified from the orignal.
 Link: https://neverwintervault.org/project/nwn1/prefab/item/buff-device
 
-## Thanks
+### Daz's Complex (and simple) inventory icons
+Thanks Daz!  From "NUIPersistentChest_Daz.mod" 
+⁠Neverwinter Value Discord: https://discord.gg/pWVqMRX the Thread: creators-forum⁠Persistent Storage Chest
+https://discord.com/channels/255017439371329537/1065259964333047848/1066157363498860637
+
+## Special Thanks
 
 ### Neverwinter Vault
-Thanks to everyone in Neverwinter Vault discord
+Thanks to everyone in Neverwinter Vault discord!
 Specfically #building-scripting channel.
+Too many people to name.
 Link: https://discord.com/invite/pWVqMRX
 
 ### NWNX:EE
@@ -47,3 +53,4 @@ Link: https://nwn.wiki/
 
 ## NWNX:EE 
 https://nwnxee.github.io/unified/
+

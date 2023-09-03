@@ -7,13 +7,15 @@
 ## Blackguard
 ## Cleric
 ## Divine Campion
-## Red Dragon Disciple
+## Dwarven Defender
 ## Fighter
+## Harper Scout
 ## Monk
 ## Paladin
 ## Pale Master
 ## Purple Dragon Knight
-## RAnger
+## Ranger
+## Red Dragon Disciple
 ## Rogue
 ## Shadow Dancer
 ## Shape Changer

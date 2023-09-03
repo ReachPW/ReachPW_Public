@@ -56,8 +56,8 @@ For range weapons:
 * * * Random Immunity (sneak, crithits, death magic, disease, fear, knockdown, level ability drain, mindspells, paralysis, poison)
 * * * Ability Bonus (all)
 * Second Chance for Ability Bonus (all)
-* Chance for Skill Bonus (Lore, Bluff, Perform, Persuade)
-* Chance for Universal Saves
+<del>* Chance for Skill Bonus (Lore, Bluff, Perform, Persuade)</del>
+<del>* Chance for Universal Saves</del>
 
 ### Armor
 * All Armor/Clothing has chance for + AC bonus
@@ -72,7 +72,7 @@ All clothing (0 AC armor) will drop as either a 'Magic Robe' or "Dexterity Garb'
 * Normal AC bonus
 
 ##### - Magic Robe
-* Chance for Skill Bonus (Concentration)
+<del>* Chance for Skill Bonus (Concentration)</del>
 * Chance for Spell Slots.
 * Chance for Abilities (Int, Wis, Cha) - depends on spell slots above, otherwise random.
 * Chance for Bonus Feat: Combat Casting
@@ -80,8 +80,8 @@ All clothing (0 AC armor) will drop as either a 'Magic Robe' or "Dexterity Garb'
 ##### - Dexterity Clothing
 * Chance for Haste property
 * Chance Ability Bonus (Dexterity)
-* Chance for Saving Throw bonus (Reflex)
-* Chance for Saving Throw bonus (Tumble)
+<del>* Chance for Saving Throw bonus (Reflex)</del>
+<del>* Chance for Skill Bonus (Tumble)</del>
 * Chance for Bonus Feat (Dodge)
 * Chance for Bonus Feat (Mobility)
 
@@ -92,8 +92,8 @@ Light armor gets the highest AC bonus, but lowest damage reduction (other than c
 * Chance for Haste property
 * Chance Ability Bonus (Strength)
 * Chance Ability Bonus (Dexterity)
-* Chance for Saving Throw bonus (Reflex)
-* Chance for Saving Throw bonus (Tumble)
+<del>* Chance for Saving Throw bonus (Reflex)</del>
+<del>* Chance for Skill Bonus (Tumble)</del>
 * Chance for Bonus Feat (Dodge)
 * Chance for Bonus Feat (Mobility)
 
@@ -104,11 +104,11 @@ Medium Armor is unique in that it can have bonuses to 3 stats and 3 skills at sa
 * Chance Ability Bonus (Strength)
 * Chance Ability Bonus (Dexterity)
 * Chance Ability Bonus (Constitution)
-* Chance for Skill Bonus (Discipline)
-* Chance for Skill Bonus (Tumble)
-* Chance for Save (Fortitude)
-* Chance for Save (Reflex)
-* Chance for Save (Will)
+<del>* Chance for Skill Bonus (Discipline)</del>
+<del>* Chance for Skill Bonus (Tumble)</del>
+<del>* Chance for Save (Fortitude)<del></del>
+<del>* Chance for Save (Reflex)</del>
+<del>* Chance for Save (Will)</del>
 * Chance for Bonus Feat (Dodge)
 
 #### Heavy
@@ -117,8 +117,8 @@ Heavy Armor is for defense.  It has most DR and base AC.  It can get both Streng
 * Chance for Highest Damage Reduction 
 * Chance Ability Bonus (Strength)
 * Chance Ability Bonus (Constitution)
-* Chance for Skill Bonus (Discipline)
-* Chance for Save (Fortitude)
+<del>* Chance for Skill Bonus (Discipline)</del>
+<del>* Chance for Save (Fortitude)</del>
 
 ### Arrow
 * Stack size has been greatly increased.
@@ -165,8 +165,8 @@ Bastard Sword are nasty weapons.
 
 ### Boots
 * Chance for Haste Proerty.
-* Chance for Saving Throw bonus (Reflex)
-* Chance for Saving Throw bonus (Tumble or Move Silently)
+<del>* Chance for Saving Throw bonus (Reflex)</del>
+<del>* Chance for Saving Throw bonus (Tumble or Move Silently)</del>
 * Chance Ability Bonus (Dexterity,  Constitution)
 * Second Chance for Ability Bonus (all)
 
@@ -195,8 +195,8 @@ Cloaks can get al 5 elemental resistances at same time.  They are the best prote
 * Chance for Elemental Resistances (Electrical)
 * Chance for Elemental Resistances (Fire)
 * Chance for Elemental Resistances (Sonic)
-* Chance for Saving Throw Bonus (Fortitude)
-* Chance for Skill Bonus (Heal, Hide)
+<del>* Chance for Saving Throw Bonus (Fortitude)</del>
+<del>* Chance for Skill Bonus (Heal, Hide)</del>
 
 ### Club
 Clubs are effective at disabling enemies, they can get all three disabling attacks.
@@ -291,10 +291,11 @@ Great if you are hunting down certain enemies (see bolts).
 * Extra positive damage vs undead (guaranteed)
 * Extra bludgeoning damage vs constructs (guaranteed)
 * Chance for Highest number of Bonus spell slots
+
 ### Helment
-* Chance of Skill Bonus (Listen, Concentration, Search, Spot)
+<del>* Chance of Skill Bonus (Listen, Concentration, Search, Spot)</del>
 * Chance of Darkvision
-* Chance of Saving Throw Bonus (Will)
+<del>* Chance of Saving Throw Bonus (Will)</del>
 * Chance for Ability Bonus (all)
 
 ### Kama
@@ -410,7 +411,7 @@ Rings are very flexiable and can help you fill in whatever is missing from your 
 * * * Random Immunity (sneak, crithits, death magic, disease, fear, knockdown, level ability drain, mindspells, paralysis, poison)
 * * * Ability Bonus (all)
 * Chance for bonus skill (Appraise, spellcraft or use magic device)
-* Chance for saving bonus throw (all, fire, cold, etc)
+<del>* Chance for Saving bonus throw (all, fire, cold, etc)</del>
 
 ### Schimitar
 

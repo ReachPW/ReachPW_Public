@@ -8,7 +8,7 @@
 
 ## Email
 
-* thereachpw at gmail dot com
+* Email: thereachpw at gmail dot com
 
 ## Documentation, gameplay wiki, maps, etc
 
