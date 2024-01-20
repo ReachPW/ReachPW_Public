@@ -15,13 +15,17 @@
 
 ## Resting
 
-* No restrictions on resting
+* No restrictions on resting (other than default not in combat rules)
 * Rest duration is faster by default.
 * Rest duration in "Safe Areas" is almost instant.
+
 * Optionally you will get various "Well Rested" bonuses if you have the following items:
-* * Bedroll - reusable.
-* * Wood - consumed to make a campfire.
-* * Meat or Fish - consumed to make a meal.
+* * Bedroll - reusable.  Provides an AC bonus. (+1 in Normal diff)
+* * Sheets - reusable.  Provides skill bonus. (+2 in Normal diff)
+* * Wood - consumed to make a campfire.  Provides a saving throw bonus. (+1 in Normal diff)
+* * Meat or Fish - consumed to make a meal.  Provides +1 HP for every character level.
+
+* Resting in beds provide AC bonus, Saving Throw Bonus and Skills bonus.
 
 
 ## Special Items
@@ -29,22 +33,8 @@
 ### Maps
 If you have the map for the current area you are in : 
 * Maps will reveal an area (ie, no more fog of war)
-* Maps also provide AC, Search and Spot Bonus for all classes
-* These classes get extra benfits if they have map for that area: 
-
-** AC:
-*** Dwarven Defender get extra AC, but get double extra AC if in natural underground area.
-*** Shadow Dancer get extra AC if night time.
-
-** Search/Spot:
-*** Bard, Rogue and Harper get extra Search/Spot if in interior non-natural area.
-*** Ranger gets extra Search/Spot bonus if in outdoor natural area.
-
-** Attack Bonus: 
-*** Barbarian, Fighter, Blackguard and Purple Dragon knight get small Attack Bonus
-*** Rangers get medium attack bonus if outdoor in natural area.
-*** Assassins get high attack bonus if night time.
-
+* Provide +3 to search bonus for that area.
+* Provide a +1 attack bonus for having a terrain advantage.
 
 ### Potions
 * "All" potions were added to the game.
@@ -98,6 +88,10 @@ If you have the map for the current area you are in :
 
 ### Portals
 * These are used to teleport to other portals across the land.
+
+### Standing Stones
+* Standing Stones grant unique abilities.
+* You may have only one active at a time.
 
 ### Doors
 * Doors can be locked and trapped. Difficulity will depend on Area Level.

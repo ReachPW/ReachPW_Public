@@ -4,7 +4,7 @@
 
 * Zero tolerance policy for racism, homophobic or extreme vulgarities.
 
-* If you find an exploit or bug, please let us know.  We will give in-game rewards and incentives for bug finding and reporting.
+* If you find an exploit or bug, please let us know. 
 
 * Fariness: The DM/Dev team will NEVER receive any in-game advantages.  Nor will DM/Dev team give out any rewards or perks to friends.  
 

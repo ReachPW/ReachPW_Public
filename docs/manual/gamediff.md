@@ -1,3 +1,7 @@
+# ! Note ! 
+This is not implement in current version.
+
+---
 
 # Game Difficulity
 

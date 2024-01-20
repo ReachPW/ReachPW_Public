@@ -29,6 +29,11 @@ Thanks Daz!  From "NUIPersistentChest_Daz.mod"
 ⁠Neverwinter Value Discord: https://discord.gg/pWVqMRX the Thread: creators-forum⁠Persistent Storage Chest
 https://discord.com/channels/255017439371329537/1065259964333047848/1066157363498860637
 
+### Jasperre's AI
+Used for some of the Monster AI, thanks Jasperre for an awesome system!
+https://neverwintervault.org/project/nwn1/script/jasperres-ai-13
+http://aarmstrong.org/work/jasperres-ai
+
 ## Special Thanks
 
 ### Neverwinter Vault
@@ -36,6 +41,14 @@ Thanks to everyone in Neverwinter Vault discord!
 Specfically #building-scripting channel.
 Too many people to name.
 Link: https://discord.com/invite/pWVqMRX
+
+Thanks to SpacePope for pointing out how to use the Num Keys for radial menu select trick (Dorry bulk buying tip)
+
+Thanks to Sacha for tweak on how to not delete items when charges run out (even with NWNX tweak).
+
+Thanks to tinygiant for various help with NUI and SQL and countless other problems
+
+Thanks to Lokey for troubleshooting my lack night mistakes.
 
 ### NWNX:EE
 Thanks to everyone in NWNX:EE Discord for all their help and patches!
